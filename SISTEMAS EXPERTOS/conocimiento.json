@@ -1,0 +1,9 @@
+{
+  "enfermedades": [
+    {"nombre": "Gripe", "sintomas": ["fiebre", "tos", "dolor muscular", "dolor de cabeza"], "probabilidad_base": 0.1},
+    {"nombre": "Infeccion", "sintomas": ["fiebre", "inflamacion"], "probabilidad_base": 0.1}
+  ],
+  "pacientes": [
+    {"nombre": "Luis", "sintomas": ["fiebre"]}
+  ]
+}
